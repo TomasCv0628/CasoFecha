@@ -7,9 +7,9 @@ public class Fecha
     // ------ Atributos ------
     // -----------------------
 
-    private int dia;
-    private int mes;
-    private int annio;
+    protected int dia;
+    protected int mes;
+    protected int annio;
 
     public Fecha(int d,int m , int a)
     {
